@@ -49,12 +49,13 @@ Update them before running the application.
 
 To request the executable JAR file:
 
-📧 **Email:** yashmhatre2004@gmail.com
+📧 **Email:** yashmhatre026@gmail.com
 
 **Subject**
 
 ```
 Request for Inventory Management System JAR
+Request for Database Tables.
 ```
 
 Include:
